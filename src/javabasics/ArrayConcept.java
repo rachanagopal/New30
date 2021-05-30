@@ -18,7 +18,7 @@ public class ArrayConcept {
 		i[0]=2;
 		i[1]=3;
 		i[2]=7;
-		i[3]=10;
+		i[3]=20;
 		
 		System.out.println(i[2]);
 		//System.out.println(i[4]);///ArrayindexOutOfBoundsException
